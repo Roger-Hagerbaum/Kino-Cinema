@@ -44,7 +44,7 @@ const FooterKino = () => {
               marginRight: "3px",
             }}
           />
-          Risback@risback.com
+            <a href={"mailto:Risback@risback.com"}>Risback@risback.com</a>
         </CustomText>
       </Box>
     </CenterBox>
