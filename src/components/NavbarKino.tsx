@@ -70,6 +70,7 @@ const NavbarKino: React.FC = () => {
           <CenterBox>
             <Box sx={{ cursor: "pointer" }}>
               <h1>Risbäck Cinema</h1>
+              <h5 id={"tagline"}>Bygdens hjärta</h5>
             </Box>
           </CenterBox>
         </Link>
